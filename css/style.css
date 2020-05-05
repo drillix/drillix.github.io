@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700);
 
-/* General
-==================================================*/
+
 @font-face {
     font-family: myFirstFont;
     src: url(../fonts/Minimo.otf);
@@ -63,9 +62,6 @@ a {
 }
 
 
-/* typography
-==================================================*/
-
 h1 {
     color: #efefef;
     font-size: 60px;
@@ -83,9 +79,6 @@ h5 {
 }
 
 
-
-/* preloader
-==================================================*/
 
 #preloader {
     position: fixed;
@@ -185,8 +178,7 @@ nav a {
     cursor: pointer;
 }
 
-/* box-intro
-==================================================*/
+
 .open{
     padding-top: 35vh;
     text-align: center;
@@ -273,8 +265,6 @@ b i:last-child {
 
 
      
-        
-/* text rotate */
 
 .box-headline {
     font-size: 130px;
@@ -433,8 +423,6 @@ b i:last-child {
 
 
 
-/* footer
-==================================================*/
 
 footer {
     padding: 30px 0;
@@ -476,8 +464,6 @@ footer img {
 }
 
 
-/* backto top
-==================================================*/
 
 .cd-top {
     display: inline-block;
@@ -660,8 +646,6 @@ footer img {
 
 
 
-/* single project page
-==================================================*/
 
 .cat-ul {
     padding-left: 0;
@@ -674,8 +658,7 @@ footer img {
 }
 
 
-/* Responsive media queries
-==================================================*/
+
 
 @media only screen and (max-width: 670px) {
     .box-headline {
